@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbgarSim&label=Profile views&color=0e75b6&style=flat" alt="AbgarSim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbgarSim" alt="AbgarSim" /></a> </p>
-
 - 🔭 I'm currently working on **a Data Engineering platform @ Renault Group, but I also contribute to open source libraries in my spare time**
 
 - 👯 I'm looking to collaborate on **any open source projects that involve Java, Python, Flutter or any other language from my area of expertise**
